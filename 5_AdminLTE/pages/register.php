@@ -76,7 +76,7 @@
           <input type="date" class="form-control" name="birthday">
           <div class="input-group-append">
             <div class="input-group-text">
-              <span class="fas fa-user"></span>
+              <span class="fas fa-calendar-alt"></span>
             </div>
           </div>
         </div>
@@ -86,7 +86,7 @@
           </select>
           <div class="input-group-append">
             <div class="input-group-text">
-              <span class="fas fa-envelope"></span>
+              <span class="fas fa-city"></span>
             </div>
           </div>
         </div>
